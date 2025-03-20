@@ -1,0 +1,6 @@
+@cheznok.uz_HostAddress = http://localhost:5278
+
+GET {{cheznok.uz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
